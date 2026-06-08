@@ -28,7 +28,7 @@ primeira oportunidade na área para aplicar e expandir meus conhecimentos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 
 <img 
     align="left" 
