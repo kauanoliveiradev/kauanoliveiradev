@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kauan Oliveira, tenho 21 anos e sou natural do Rio de Janeiro. 
+Me chamo Kauan Oliveira, tenho 22 anos e sou natural do Rio de Janeiro. 
 Estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM e me 
 especializando em desenvolvimento FullStack, com foco em tecnologias 
 como HTML, CSS, JavaScript e Node.js.
